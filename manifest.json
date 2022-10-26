@@ -1,7 +1,6 @@
 {
   "manifest_version": 3,
   "name": "Uni Stuttgart Login Redirect",
-  "short_name": "Login Redirect",
   "description": "Automatically redirects to the login page in Ilias and Campus",
   "author": "escape99",
   "version": "1.4",
